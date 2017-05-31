@@ -1,0 +1,36 @@
+		th { padding: 7px; margin: 5px; color: grey; font-weight: bold;}
+		td {padding: 7px; margin: 5px; color: teal;}
+		.title {font-size: 1.5em; font-weight: bold; color: teal; font-style:italic;}
+		
+		.ui-icon-sheridan:after {
+			background-image: url("images/sheridan.png");
+			background-size: 25px 25px;
+		}
+		
+		.ui-icon-cricket:after {
+			background-image: url("images/cricket.png");
+			background-size: 25px 25px;
+		}
+		.ui-icon-atmo:after {
+			background-image: url("../images/atmo.png");
+			background-size: 25px 25px;
+		}
+		.ui-icon-telescope:after {
+			background-image: url("../images/telescope.png");
+			background-size: 25px 25px;
+		}
+		.ui-icon-wind:after {
+			background-image: url("../images/wind.png");
+			background-size: 25px 25px;
+		}
+
+		.ui-icon-rich:after {
+			background-image: url("../images/rich.jpg");
+			background-size: 25px 25px;
+		} 
+		 
+		.map  {
+   width: 100%;
+   height: 400px;
+  
+ }
